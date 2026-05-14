@@ -1,0 +1,201 @@
+Act as a senior Android architect, marketplace product designer, Kotlin developer, Firebase engineer, and AI integration specialist.
+
+Build a complete production-level Android application called:
+
+“Kutira-Kone: AI-Powered Zero-Waste Fabric Exchange Marketplace”
+
+====================================================
+PROJECT VISION
+====================================================
+
+Kutira-Kone is a hyperlocal fabric recycling and exchange marketplace.
+
+The app connects:
+- Tailors
+- Boutique owners
+- Artisans
+- Small creators
+
+Users can:
+- Upload leftover fabric scraps
+- Sell/swap scraps
+- Discover reusable textile materials
+- Reduce textile waste
+- Promote circular economy
+
+====================================================
+CORE PROBLEMS
+====================================================
+
+1. Excess fabric scraps are wasted.
+2. Small creators need low-cost materials.
+3. No hyperlocal textile exchange exists.
+4. Textile waste harms environment.
+5. Tailors lack sustainability-driven marketplace.
+
+====================================================
+APP GOALS
+====================================================
+
+- Reduce textile waste
+- Promote sustainable fashion
+- Create local collaboration
+- Enable fabric reuse economy
+- Encourage eco-friendly production
+
+====================================================
+TECH STACK
+====================================================
+
+Frontend:
+- Android Native
+- Kotlin
+- XML Layouts
+- Material Design 3
+
+Architecture:
+- MVVM
+- Repository Pattern
+- Clean Architecture
+
+Backend:
+- Firebase Firestore
+- Firebase Auth
+- Firebase Storage
+- Firebase Messaging
+
+Maps:
+- Google Maps SDK
+
+AI:
+- Gemini API
+- Fabric classification AI
+- AI style recommendations
+
+Libraries:
+- Hilt
+- Coroutines
+- Coil
+- MotionLayout
+- Lottie
+
+====================================================
+MAIN MODULES
+====================================================
+
+1. Authentication
+- User login
+- Artisan profiles
+- Tailor profiles
+
+2. Fabric Upload Marketplace
+- Upload fabric photos
+- Material type
+- Quantity
+- Color
+- Texture
+- Location
+
+3. Browse Marketplace
+- Nearby scraps
+- Search & filters
+- Category browsing
+
+4. Swap/Buy System
+- Direct exchange
+- Swap requests
+- Chat system
+
+5. AI Design Suggestions
+- AI-generated craft ideas
+- Suggested reuse projects
+- AI style inspiration
+
+6. Sustainability Dashboard
+- Textile waste reduced
+- Carbon impact
+- Recycled material stats
+
+7. Community Showcase
+- User-created products
+- Inspiration gallery
+- DIY ideas
+
+====================================================
+UI/UX REQUIREMENTS
+====================================================
+
+Design a vibrant eco-modern marketplace UI.
+
+Style:
+- Pinterest + Etsy + sustainability app
+- Fabric-inspired gradients
+- Dynamic cards
+- Artistic animations
+
+Animations:
+- Floating fabric cards
+- Smooth marketplace transitions
+- Swipe interactions
+- Upload morph animations
+- AI generation effects
+
+Use:
+- MotionLayout
+- Lottie
+- Shared transitions
+
+====================================================
+SCREENS REQUIRED
+====================================================
+
+1. Splash Screen
+2. Onboarding
+3. Login/Register
+4. Home Marketplace
+5. Upload Fabric
+6. Fabric Details
+7. Nearby Marketplace Map
+8. Swap Requests
+9. AI Design Suggestions
+10. Sustainability Dashboard
+11. Community Showcase
+12. Notifications
+13. Profile
+14. Admin Dashboard
+
+====================================================
+AI FEATURES
+====================================================
+
+1. AI Fabric Classification
+2. AI Reuse Suggestions
+3. AI Design Inspiration
+4. AI Marketplace Recommendations
+
+====================================================
+MAP FEATURES
+====================================================
+
+- Nearby material search
+- Radius filtering
+- Hyperlocal discovery
+- Pickup location markers
+
+====================================================
+GENERATE
+====================================================
+
+Generate:
+- Full Android Kotlin project
+- XML layouts
+- Firebase integration
+- Marketplace system
+- AI integrations
+- Motion animations
+- Maps integration
+- Chat system
+- Realtime updates
+- Sustainable analytics dashboard
+
+Build this as a premium eco-tech startup application.

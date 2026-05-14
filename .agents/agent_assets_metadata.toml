@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "AtTSPO9ZWcAoB0w2yzC8T"
+uri = "file://artifacts/kutira-kone/assets/images/icon.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "HGPhZ-4xMvi2gMzTAd9Hn"
+uri = "file://artifacts/kutira-kone/assets/images/fabric1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "tgCGbkt4xBNoZGsFVsDGx"
+uri = "file://artifacts/kutira-kone/assets/images/fabric2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "5kbkDU2MbJ912f_ScIWqs"
+uri = "file://artifacts/kutira-kone/assets/images/fabric3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "gA-QaMI_a_zyODR3EP9RD"
+uri = "file://artifacts/kutira-kone/assets/images/fabric4.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "jYwb2jujgsN4x-ErhozwS"
+uri = "file://artifacts/kutira-kone/assets/images/ai1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "0DQnrL_ev2R6HgfuGChs_"
+uri = "file://artifacts/kutira-kone/assets/images/ai2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "dT99XxgCJ9qNeHaeEXnDw"
+uri = "file://artifacts/kutira-kone/assets/images/ai3.png"
+type = "image"
+title = "generated_image"
