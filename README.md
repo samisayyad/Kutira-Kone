@@ -1,34 +1,73 @@
-Kutira-Kone
-Replace the heading above with the project's name, and this line with one sentence describing what this app does for users.
+# Kutira-Kone
+AI-Powered Zero-Waste Fabric Exchange Marketplace
 
-Run & Operate
-pnpm --filter @workspace/api-server run dev — run the API server (port 5000)
-pnpm run typecheck — full typecheck across all packages
-pnpm run build — typecheck + build all packages
-pnpm --filter @workspace/api-spec run codegen — regenerate API hooks and Zod schemas from the OpenAPI spec
-pnpm --filter @workspace/db run push — push DB schema changes (dev only)
-Required env: DATABASE_URL — Postgres connection string
-Stack
-pnpm workspaces, Node.js 24, TypeScript 5.9
-API: Express 5
-DB: PostgreSQL + Drizzle ORM
-Validation: Zod (zod/v4), drizzle-zod
-API codegen: Orval (from OpenAPI spec)
-Build: esbuild (CJS bundle)
-Where things live
-Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc.
+## Overview
+Kutira-Kone is a sustainable hyperlocal marketplace that helps tailors, artisans, and creators exchange leftover fabric scraps to reduce textile waste and promote eco-friendly production.
 
-Architecture decisions
-Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets).
+---
 
-Product
-Describe the high-level user-facing capabilities of this app once they exist.
+## Features
 
-User preferences
-Populate as you build — explicit user instructions worth remembering across sessions.
+### Marketplace Features
+- Upload fabric scraps
+- Browse nearby materials
+- Swap/buy requests
+- Real-time marketplace
 
-Gotchas
-Populate as you build — sharp edges, "always run X before Y" rules.
+### AI Features
+- AI fabric classification
+- Reuse suggestions
+- DIY inspiration ideas
+- Smart recommendations
 
-Pointers
-See the pnpm-workspace skill for workspace structure, TypeScript setup, and package details
+### Sustainability Features
+- Waste reduction analytics
+- Carbon impact tracking
+- Eco contribution dashboard
+
+---
+
+## Tech Stack
+- Kotlin
+- Firebase
+- Google Maps SDK
+- MVVM Architecture
+- Material Design 3
+- MotionLayout
+- Gemini API
+
+---
+
+## Modules
+- Authentication
+- Fabric Marketplace
+- Upload System
+- Nearby Discovery Map
+- AI Inspiration Engine
+- Sustainability Dashboard
+- Community Showcase
+
+---
+
+## Installation
+1. Clone repository
+2. Open in Android Studio
+3. Configure Firebase
+4. Add Maps API Key
+5. Run app
+
+---
+
+## Future Enhancements
+- Real payment integration
+- Delivery tracking
+- AI fashion generator
+- Textile recycling partnerships
+
+---
+
+## Impact
+- Reduces textile waste
+- Encourages sustainable fashion
+- Supports local artisans
+- Promotes circular economy
